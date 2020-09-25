@@ -1,0 +1,26 @@
+{
+  "name": "my-cli",
+  "version": "1.0.0",
+  "description": "前端脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szy1000/my-cli.git"
+  },
+  "author": "szy1000",
+  "license": "ISC",
+  "bin": {
+    "mycli": "bin/mycli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/szy1000/my-cli/issues"
+  },
+  "homepage": "https://github.com/szy1000/my-cli#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chalk": "^4.1.0"
+  }
+}
